@@ -1,0 +1,12 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.banner-bg{
+    background-color: #264653;
+}
+.bttton-bg{
+    background-color: #E76F51;
+}
+span, .bike-list{
+color: #E76F51;
+}
