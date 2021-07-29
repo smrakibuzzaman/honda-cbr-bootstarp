@@ -10,3 +10,13 @@ body{
 span, .bike-list{
 color: #E76F51;
 }
+.fa-star.filled,.fa-star.empty {
+    color: #FFC014;
+}
+.card-text{
+    color: #6C6C6C;
+    ;
+}
+.accordion-body{
+    color: #7E848C;
+}
